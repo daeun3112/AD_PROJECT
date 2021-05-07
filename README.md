@@ -1,2 +1,1 @@
-20203112 
-Lee daeun
+2020-2 SW project_ my AD project
